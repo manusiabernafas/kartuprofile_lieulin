@@ -6,7 +6,7 @@ Aplikasi UI Kartu Profil Statis berbasis **Flutter** dengan pendekatan desain **
 
 ## 👤 Informasi Mahasiswa
 - **Nama**: M. Lie Ulin Nuha
-- **NIM**: 4124018
+- **NIM**: privasi
 - **Program Studi**: S1 Sistem Informasi
 - **Perguruan Tinggi**: Universitas Pesantren Tinggi Darul 'Ulum (UNIPDU) Jombang
 - **Deskripsi / Tagline**: *Saya Seorang Vibe Coding*
